@@ -175,24 +175,24 @@ Functions in the Package
 1. Network.py
 -------------
 
-.. autofunction:: londontube.Network.Network.__add__
-.. autofunction:: londontube.Network.Network.distant_neighbours
-.. autofunction:: londontube.Network.Network.dijkstra
+```londontube.Network.Network.__add__```
+```londontube.Network.Network.distant_neighbours```
+```londontube.Network.Network.dijkstra```
 
 2. query.py
 -----------
 
-.. autofunction:: londontube.query.query_line_connections
-.. autofunction:: londontube.query.query_station_information
-.. autofunction:: londontube.query.query_station_num
-.. autofunction:: londontube.query.parse_station_data
-.. autofunction:: londontube.query.query_disruptions
-.. autofunction:: londontube.query.parse_disruptions_data
-.. autofunction:: londontube.query.real_time_network
+```londontube.query.query_line_connections```
+```londontube.query.query_station_information```
+```londontube.query.query_station_num```
+```londontube.query.parse_station_data```
+```londontube.query.query_disruptions```
+```londontube.query.parse_disruptions_data```
+```londontube.query.real_time_network```
 
 3. journey_planner.py
 ---------------------
 
-.. autofunction:: londontube.journey_planner.plan_journey
-.. autofunction:: londontube.journey_planner.plot_journey
-.. autofunction:: londontube.journey_planner.journey_planner
+```londontube.journey_planner.plan_journey```
+```londontube.journey_planner.plot_journey```
+```londontube.journey_planner.journey_planner```
