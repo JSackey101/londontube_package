@@ -176,23 +176,33 @@ Functions in the Package
 -------------
 
 ```londontube.Network.Network.__add__```
+
 ```londontube.Network.Network.distant_neighbours```
+
 ```londontube.Network.Network.dijkstra```
 
 2. query.py
 -----------
 
 ```londontube.query.query_line_connections```
+
 ```londontube.query.query_station_information```
+
 ```londontube.query.query_station_num```
+
 ```londontube.query.parse_station_data```
+
 ```londontube.query.query_disruptions```
+
 ```londontube.query.parse_disruptions_data```
+
 ```londontube.query.real_time_network```
 
 3. journey_planner.py
 ---------------------
 
 ```londontube.journey_planner.plan_journey```
+
 ```londontube.journey_planner.plot_journey```
+
 ```londontube.journey_planner.journey_planner```
